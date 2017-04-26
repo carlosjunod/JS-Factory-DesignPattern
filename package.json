@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/carlosjunod/myboilerplate.git"
+    "url": "git+https://github.com/carlosjunod/JS-Factory-DesignPattern.git"
   },
   "keywords": [
     "html",
@@ -20,9 +20,9 @@
   "author": "@carlosjunod",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/carlosjunod/myboilerplate/issues"
+    "url": "https://github.com/carlosjunod/JS-Factory-DesignPattern/issues"
   },
-  "homepage": "https://github.com/carlosjunod/myboilerplate#readme",
+  "homepage": "https://github.com/carlosjunod/JS-Factory-DesignPattern#readme",
   "devDependencies": {
     "autoprefixer": "^6.7.7",
     "babel-preset-es2015": "^6.24.0",
